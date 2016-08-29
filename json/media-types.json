@@ -684,6 +684,12 @@
         "spec_href": "https://tools.ietf.org/html/rfc2958"
     },
     {
+        "media_type": "application/x-www-form-urlencoded",
+        "template": "https://www.iana.org/assignments/media-types/application/x-www-form-urlencoded",
+        "spec_title": "TR",
+        "spec_href": "http://www.w3.org/TR/html51/"
+    },
+    {
         "media_type": "application/x400-bp",
         "template": "https://www.iana.org/assignments/media-types/application/x400-bp",
         "spec_title": "RFC1494",
@@ -1434,6 +1440,9 @@
         "spec_href": "https://tools.ietf.org/html/rfc2421"
     },
     {
+        "media_type": "text/plain; charset=utf-8"
+    },
+    {
         "media_type": "text/1d-interleaved-parityfec",
         "template": "https://www.iana.org/assignments/media-types/text/1d-interleaved-parityfec",
         "spec_title": "RFC6015",
@@ -1484,6 +1493,12 @@
     {
         "media_type": "text/grammar-ref-list",
         "template": "https://www.iana.org/assignments/media-types/text/grammar-ref-list",
+        "spec_title": "RFC6787",
+        "spec_href": "https://tools.ietf.org/html/rfc6787"
+    },
+    {
+        "media_type": "text/html",
+        "template": "https://www.iana.org/assignments/media-types/text/html",
         "spec_title": "RFC6787",
         "spec_href": "https://tools.ietf.org/html/rfc6787"
     },
